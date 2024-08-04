@@ -6,8 +6,8 @@ O objetivo deste repositório é proporcionar uma base sólida para iniciantes e
 
 ## Conteúdo
 
-- [MATPLOTLIB.ipynb](./MATPLOTLIB.ipynb): Guia introdutório sobre a biblioteca Matplotlib.
-- [SEABORN.ipynb](./SEABORN.ipynb): Guia introdutório sobre a biblioteca Seaborn.
+- [MATPLOTLIB](./MATPLOTLIB.ipynb): Guia introdutório sobre a biblioteca Matplotlib.
+- [SEABORN](./SEABORN.ipynb): Guia introdutório sobre a biblioteca Seaborn.
 
 ## Contribuições
 
