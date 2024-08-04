@@ -17,6 +17,6 @@ Contribuições são sempre bem-vindas! Se você tem sugestões de melhorias, en
 
 - [Documentação do Matplotlib](https://matplotlib.org/stable/contents.html)
 - [Documentação do Seaborn](https://seaborn.pydata.org/)
-- [Pandas Documentation](https://pandas.pydata.org/)
+- [Documentação do Pandas](https://pandas.pydata.org/)
 
 **Divirta-se aprendendo e analisando dados!** 🚀📊
